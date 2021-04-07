@@ -8,6 +8,7 @@ Original file is located at
 
 # Attempt 1
 """
+# All thing is already commented
 
 import os
 import re
@@ -172,3 +173,5 @@ for i in range(len(frame_array)):
 
 out.release()
 #view raw
+# This is the python script of the google colab file
+#some of the line must be removed in order to run this code
